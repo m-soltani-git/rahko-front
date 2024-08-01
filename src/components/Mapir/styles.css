@@ -1,0 +1,22 @@
+.mapboxgl-popup {
+    direction: ltr;
+}
+
+.mapboxgl-popup-tip {
+    border-top-color: #3366FF !important;
+}
+
+.mapboxgl-popup-content {
+    padding: 0;
+    border-radius: 8px;
+    box-shadow: none;
+    background: transparent;
+}
+
+.mapboxgl-popup-tip {
+    border-radius: 4px;
+}
+
+.mapboxgl-control-container {
+    display: none !important;
+}
