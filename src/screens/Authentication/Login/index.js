@@ -159,10 +159,10 @@ const UserPopup = () => {
             <Stack direction="row" height="100%">
               <Stack flex={2} px={4} justifyContent="center" alignItems="center">
                 <StyledTitle fontSize="6rem" fontWeight="bold">
-                  Dorlib
+                  React Kit
                 </StyledTitle>
                 <StyledTitle variant="h6">
-                  سامانه اتوماسیون دندانپزشکی
+                  سامانه اتوماسیون
                 </StyledTitle>
                 {stepContent(step)}
               </Stack>
